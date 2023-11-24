@@ -22,7 +22,7 @@ public class Main {
                 continue;
             }
             if (media>=5.0 && faltas<25 && comportamento){
-                System.out.println("Este aluno foi aprovado");
+                System.out.println("Este aluno foi aprovado EEEEEEEEEEEEEEEEEEEE");
             }
             else if (media<5.0 && faltas<25 && comportamento) {
                 System.out.println("Este aluno fara recuperação");
